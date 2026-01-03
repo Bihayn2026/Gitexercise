@@ -1,0 +1,8 @@
+import tensorflow as tf
+tf.add(1, 2).numpy()
+3
+hello = tf.constant('Hello, TensorFlow!')
+hello.numpy()
+b'Hello, TensorFlow!'
+# this is first add
+# Hello what is this code?git a
